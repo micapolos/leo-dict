@@ -51,6 +51,7 @@ class
 clear
 click
 clip
+clone
 close
 color
 com
@@ -73,6 +74,7 @@ copy
 cover
 crash
 create
+cut
 cyan
 d
 dark
@@ -85,6 +87,7 @@ destroy
 dict
 dictionary
 dimensions
+display
 div
 divide
 divided
@@ -166,6 +169,9 @@ interface
 immutable
 import
 insert
+ios
+ipad
+iphone
 is
 it
 itself
@@ -196,6 +202,8 @@ loop
 lost
 low
 m
+mac
+macos
 magenta
 mail
 manager
@@ -209,6 +217,7 @@ meta
 method
 middle
 minus
+mode
 module
 mouse
 multiply
@@ -248,9 +257,11 @@ pause
 period
 person
 phase
+phone
 pi
 pink
 pixel
+play
 plus
 point
 port
@@ -361,6 +372,7 @@ view
 violet
 volume
 w
+watch
 wave
 widget
 width
