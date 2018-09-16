@@ -1,6 +1,7 @@
 a
 abs
 abstraction
+acos
 activity
 admin
 add
@@ -21,7 +22,9 @@ argb
 argument
 arrow
 as
+asin
 at
+atan
 attention
 b
 back
@@ -62,12 +65,14 @@ clone
 close
 color
 com
+comfort
 comma
 command
 component
 connect
 connection
 connected
+console
 const
 constant
 consumer
@@ -78,6 +83,8 @@ coordinates
 coord
 coords
 copy
+cos
+cosh
 cover
 crash
 create
@@ -128,6 +135,7 @@ fast
 female
 file
 fill
+find
 first
 five
 flip
@@ -139,6 +147,7 @@ fn
 foreground
 forget
 form
+found
 four
 fragment
 freeze
@@ -215,6 +224,7 @@ list
 literal
 lo
 lock
+log
 lol
 long
 look
@@ -328,6 +338,7 @@ sawtooth
 scheme
 scope
 screen
+search
 second
 set
 seven
@@ -337,6 +348,7 @@ short
 side
 sine
 sin
+sinh
 six
 slash
 slow
@@ -358,6 +370,8 @@ supplier
 t
 tab
 tail
+tan
+tanh
 tap
 target
 ten
@@ -406,6 +420,8 @@ view
 violet
 volume
 w
+warn
+warning
 watch
 wave
 weak
