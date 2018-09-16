@@ -7,6 +7,7 @@ add
 after
 age
 alpha
+am
 amplitude
 anchor
 and
@@ -21,6 +22,7 @@ argument
 arrow
 as
 at
+attention
 b
 back
 background
@@ -45,6 +47,7 @@ c
 called
 canvas
 caps
+caution
 chain
 change
 center
@@ -54,6 +57,7 @@ class
 clear
 click
 clip
+clock
 clone
 close
 color
@@ -83,6 +87,7 @@ d
 dark
 data
 database
+day
 def
 define
 delete
@@ -119,6 +124,7 @@ f
 factory
 false
 family
+fast
 female
 file
 fill
@@ -135,8 +141,10 @@ forget
 form
 four
 fragment
+freeze
 frequency
 from
+frozen
 full
 function
 g
@@ -148,11 +156,14 @@ gives
 green
 grey
 h
+hack
+hacker
 head
 height
 hi
 high
 host
+hour
 html
 http
 husband
@@ -170,6 +181,8 @@ integer
 integral
 interface
 immutable
+implement
+implements
 import
 insert
 inventory
@@ -181,10 +194,12 @@ it
 itself
 j
 java
+jump
 just
 k
 key
 keyboard
+kick
 kotlin
 l
 lambda
@@ -221,8 +236,11 @@ meta
 method
 middle
 minus
+minute
 mode
 module
+month
+motion
 mouse
 multiply
 mutable
@@ -230,6 +248,7 @@ n
 name
 native
 negate
+night
 nine
 nil
 no
@@ -269,6 +288,7 @@ pink
 pixel
 play
 plus
+pm
 point
 port
 post
@@ -316,12 +336,15 @@ sine
 sin
 six
 slash
+slow
 space
 spouse
 square
 squared
 stack
+stand
 start
+step
 stop
 stream
 string
@@ -342,6 +365,8 @@ then
 third
 this
 three
+throw
+throws
 thunk
 to
 top
@@ -380,6 +405,8 @@ volume
 w
 watch
 wave
+weak
+week
 widget
 width
 wife
@@ -393,6 +420,7 @@ xor
 xy
 xyz
 y
+year
 yellow
 yes
 z
