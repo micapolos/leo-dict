@@ -215,6 +215,7 @@ list
 literal
 lo
 lock
+lol
 long
 look
 loop
@@ -296,6 +297,8 @@ print
 println
 producer
 program
+pull
+push
 put
 q
 query
