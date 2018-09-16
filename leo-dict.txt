@@ -1,4 +1,5 @@
 a
+abs
 abstraction
 activity
 add
@@ -48,6 +49,7 @@ component
 consumer
 convert
 coordinate
+crash
 create
 d
 def
@@ -69,8 +71,10 @@ empty
 end
 enter
 equals
+error
 evaluate
 evaluated
+exception
 exclusive
 exit
 f
@@ -83,6 +87,7 @@ first
 float
 float32
 float64
+floating
 fn
 foreground
 form
@@ -115,6 +120,8 @@ int8
 int16
 int32
 int64
+integer
+integral
 interface
 immutable
 import
@@ -122,10 +129,12 @@ is
 it
 itself
 j
+java
 just
 k
 key
 keyboard
+kotlin
 l
 lambda
 last
@@ -157,9 +166,12 @@ n
 name
 native
 negate
+nil
 no
+none
 not
 nothing
+null
 o
 of
 one
@@ -225,6 +237,7 @@ start
 stop
 stream
 string
+sub
 subtract
 supplier
 t
