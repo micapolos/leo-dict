@@ -225,6 +225,8 @@ literal
 lo
 lock
 log
+login
+logout
 lol
 long
 look
@@ -286,6 +288,8 @@ p
 package
 page
 paint
+pass
+password
 paste
 path
 pattern
@@ -434,6 +438,7 @@ window
 with
 while
 white
+word
 x
 xor
 xy
