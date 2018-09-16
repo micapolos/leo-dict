@@ -2,6 +2,7 @@ a
 abs
 abstraction
 activity
+admin
 add
 after
 age
@@ -25,6 +26,7 @@ back
 background
 backslash
 ball
+ban
 becomes
 before
 begin
@@ -46,6 +48,7 @@ caps
 chain
 change
 center
+cheat
 circle
 class
 clear
@@ -169,6 +172,7 @@ interface
 immutable
 import
 insert
+inventory
 ios
 ipad
 iphone
@@ -235,6 +239,8 @@ nothing
 null
 o
 of
+off
+on
 one
 open
 option
