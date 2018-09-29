@@ -881,7 +881,6 @@ truth
 tuple
 two
 type
-typeof
 types
 u
 uint
@@ -957,7 +956,6 @@ without
 word
 wrap
 write
-writeutf
 writing
 x
 xfib
