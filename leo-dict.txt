@@ -10,6 +10,7 @@ access
 accessible
 acos
 activity
+actual
 add
 addr
 address
@@ -285,6 +286,7 @@ execution
 executor
 exists
 exit
+expected
 expression
 ext
 extends
@@ -746,6 +748,7 @@ script
 search
 second
 select
+self
 semicolon
 sentinel
 separated
@@ -828,6 +831,7 @@ supervisor
 supplier
 suppliers
 suppressed
+switch
 symbol
 symbols
 syntax
