@@ -219,6 +219,7 @@ delete
 demo
 depth
 derive
+describe
 destroy
 detector
 dict
@@ -292,6 +293,8 @@ ext
 extends
 extractor
 f
+f32
+f64
 factory
 fading
 failed
@@ -418,6 +421,13 @@ insert
 instance
 instrument
 instruments
+i1
+i2
+i4
+i8
+i16
+i32
+i64
 int
 int16
 int32
@@ -610,6 +620,7 @@ outline
 output
 oval
 over
+overflow
 owner
 p
 package
@@ -640,6 +651,7 @@ phase
 phone
 pi
 pin
+ping
 pink
 pins
 pixel
@@ -649,6 +661,7 @@ play
 plus
 pm
 point
+pong
 pop
 port
 position
