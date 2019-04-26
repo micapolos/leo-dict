@@ -548,6 +548,8 @@ millis
 min
 minus
 minute
+miss
+missing
 mod
 mode
 modifier
