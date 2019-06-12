@@ -215,6 +215,7 @@ deepnight
 def
 default
 define
+degrees
 delete
 demo
 depth
@@ -561,6 +562,7 @@ more
 mother
 motion
 mouse
+move
 mul
 multiply
 mutable
@@ -647,6 +649,7 @@ pattern
 pause
 payload
 pc
+percent
 period
 person
 phase
@@ -701,6 +704,7 @@ quicksort
 quote
 quoted
 r
+radians
 radius
 random
 read
@@ -744,6 +748,7 @@ rgba
 rhs
 right
 root
+rotate
 round
 row
 rows
@@ -754,6 +759,7 @@ runtime
 s
 save
 sawtooth
+scale
 scheme
 scope
 scoped
