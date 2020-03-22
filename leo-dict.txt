@@ -239,6 +239,7 @@ divmod
 do
 document
 does
+doing
 done
 dot
 double
@@ -598,6 +599,7 @@ now
 null
 nullable
 number
+numbers
 o
 obj
 object
@@ -884,6 +886,7 @@ text
 that
 the
 then
+these
 third
 this
 thread
