@@ -211,6 +211,7 @@ debug
 declaration
 declared
 declaring
+decrement
 deepnight
 def
 default
@@ -237,6 +238,7 @@ divided
 divmod
 do
 document
+does
 done
 dot
 double
@@ -363,6 +365,7 @@ get
 gets
 getting
 give
+given
 gives
 global
 glyph
@@ -408,6 +411,7 @@ implements
 import
 in
 inbpm
+increment
 indent
 index
 infinite
@@ -479,6 +483,7 @@ len
 length
 lengths
 leo
+leonardo
 leonize
 leonized
 leonizer
