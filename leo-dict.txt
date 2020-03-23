@@ -58,6 +58,8 @@ async
 at
 atan
 attention
+attr
+attribute
 audio
 awt
 b
@@ -88,6 +90,7 @@ booleans
 boost
 bottom
 bounds
+bold
 box
 bpm
 branch
@@ -377,6 +380,12 @@ green
 grey
 grid
 h
+h1
+h2
+h3
+h4
+h5
+h6
 hack
 hacker
 handle
@@ -435,6 +444,7 @@ i8
 i16
 i32
 i64
+image
 int
 int16
 int32
@@ -831,6 +841,7 @@ spouse
 square
 squared
 sr
+src
 stack
 stacks
 stand
@@ -849,6 +860,7 @@ string
 strings
 stroke
 struct
+style
 sub
 submit
 subpackages
