@@ -723,6 +723,9 @@ readutf
 recover
 rect
 rectangle
+recurse
+recursion
+recursive
 recursively
 red
 redirect
