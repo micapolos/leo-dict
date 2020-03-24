@@ -340,6 +340,8 @@ folder
 font
 footer
 for
+force
+forced
 foreground
 forget
 form
