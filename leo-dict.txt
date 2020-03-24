@@ -491,6 +491,8 @@ lambda
 lang
 last
 latch
+lazily
+lazy
 left
 len
 length
