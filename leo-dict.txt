@@ -294,6 +294,9 @@ execution
 executor
 exists
 exit
+expand
+expanded
+expands
 expected
 expression
 ext
@@ -534,6 +537,7 @@ ludumdare
 m
 mac
 macos
+macro
 magenta
 mail
 main
