@@ -790,6 +790,7 @@ runtime
 s
 save
 sawtooth
+say
 scale
 scheme
 scope
