@@ -26,6 +26,7 @@ am
 amplitude
 anchor
 and
+angle
 anon
 antialias
 antialiasing
