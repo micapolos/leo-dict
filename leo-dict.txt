@@ -1014,13 +1014,13 @@ widget
 width
 wife
 win
+winding
 window
 wire
 with
 without
 word
 wrap
-winding
 write
 writes
 writing
