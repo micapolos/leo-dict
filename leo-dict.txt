@@ -29,6 +29,7 @@ and
 anon
 antialias
 antialiasing
+anticlockwise
 any
 anything
 appearance
@@ -134,6 +135,7 @@ clear
 click
 clip
 clock
+clockwise
 clone
 clones
 close
