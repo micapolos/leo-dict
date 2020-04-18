@@ -129,6 +129,7 @@ check
 checked
 child
 children
+choice
 circle
 class
 classes
@@ -285,6 +286,7 @@ evaluate
 evaluated
 event
 events
+exact
 exactly
 examples
 exception
@@ -380,6 +382,7 @@ getting
 give
 given
 gives
+giving
 global
 glyph
 google
@@ -517,6 +520,7 @@ library
 light
 line
 lines
+link
 linked
 list
 listener
@@ -764,6 +768,7 @@ remove
 render
 rendering
 repeat
+repeating
 replace
 required
 reset
@@ -948,6 +953,7 @@ truth
 tuple
 two
 type
+typed
 types
 u
 uint
