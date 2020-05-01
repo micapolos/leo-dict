@@ -162,6 +162,9 @@ common
 compact
 compare
 compass
+compile
+compiled
+compiler
 component
 components
 compute
