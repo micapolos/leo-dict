@@ -824,6 +824,7 @@ second
 select
 self
 semicolon
+sentence
 sentinel
 separated
 separator
