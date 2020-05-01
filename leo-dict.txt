@@ -80,6 +80,7 @@ below
 big
 binary
 bind
+binding
 bindings
 bit
 black
