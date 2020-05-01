@@ -309,6 +309,8 @@ expand
 expanded
 expands
 expected
+export
+exported
 expression
 ext
 extends
