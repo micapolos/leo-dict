@@ -198,6 +198,7 @@ coordinates
 coords
 copies
 copy
+core
 cos
 cosh
 count
@@ -725,6 +726,7 @@ post
 ppq
 predecessor
 prefix
+prelude
 preprocess
 preprocessor
 present
