@@ -228,6 +228,8 @@ deepnight
 def
 default
 define
+definition
+defined
 degrees
 delete
 demo
