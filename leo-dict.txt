@@ -220,6 +220,7 @@ data
 database
 day
 debug
+decimal
 declaration
 declared
 declaring
