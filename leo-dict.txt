@@ -245,6 +245,8 @@ did
 difference
 digest
 digit
+dimension
+dimensional
 dimensions
 direct
 display
