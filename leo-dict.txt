@@ -159,6 +159,8 @@ comfort
 comma
 command
 comment
+comments
+commenting
 common
 compact
 compare
