@@ -424,6 +424,7 @@ handle
 has
 hash
 hashes
+haskell
 haxe
 head
 header
