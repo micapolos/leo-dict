@@ -945,6 +945,7 @@ tag
 tail
 take
 taken
+takes
 taking
 tan
 tanh
