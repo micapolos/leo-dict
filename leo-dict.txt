@@ -943,6 +943,9 @@ t
 tab
 tag
 tail
+take
+taken
+taking
 tan
 tanh
 tap
