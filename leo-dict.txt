@@ -542,6 +542,8 @@ lhs
 lib
 library
 light
+limit
+limited
 line
 lines
 link
@@ -1014,6 +1016,7 @@ unhandled
 unindent
 unit
 unknown
+unlimited
 unmodifiable
 unquote
 unquoted
