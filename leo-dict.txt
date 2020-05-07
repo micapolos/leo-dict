@@ -899,6 +899,7 @@ spanning
 splice
 split
 spouse
+sqrt
 square
 squared
 sr
