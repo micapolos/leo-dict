@@ -801,6 +801,7 @@ refl
 reflect
 reflection
 regex
+regular
 remainder
 remove
 render
