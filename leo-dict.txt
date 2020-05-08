@@ -40,6 +40,7 @@ application
 applicative
 applier
 apply
+approximate
 arc
 area
 arg
