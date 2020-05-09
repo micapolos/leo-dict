@@ -793,6 +793,7 @@ recover
 rect
 rectangle
 recurse
+recursing
 recursion
 recursive
 recursively
