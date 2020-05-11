@@ -855,6 +855,7 @@ script
 search
 second
 select
+selector
 self
 semicolon
 sentence
