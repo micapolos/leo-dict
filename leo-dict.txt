@@ -210,6 +210,7 @@ copy
 core
 cos
 cosh
+cosinus
 count
 counter
 cout
@@ -896,6 +897,7 @@ singly
 sinh
 sink
 sinks
+sinus
 six
 sixth
 size
