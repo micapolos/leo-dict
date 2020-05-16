@@ -514,7 +514,9 @@ j
 jam
 jar
 java
+javascript
 join
+js
 jump
 just
 k
