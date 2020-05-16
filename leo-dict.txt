@@ -27,6 +27,8 @@ amplitude
 anchor
 and
 angle
+animate
+animation
 anon
 antialias
 antialiasing
