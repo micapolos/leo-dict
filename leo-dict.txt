@@ -125,6 +125,7 @@ caps
 case
 cast
 catching
+category
 cause
 caution
 center
@@ -649,6 +650,7 @@ named
 names
 nand
 native
+natural
 negate
 new
 newline
