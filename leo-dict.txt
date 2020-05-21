@@ -269,6 +269,7 @@ do
 document
 does
 doing
+dollar
 done
 dot
 double
@@ -316,6 +317,7 @@ exactly
 examples
 exception
 exceptions
+exclamation
 exclusive
 exec
 executable
