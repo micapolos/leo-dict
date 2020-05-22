@@ -442,6 +442,7 @@ header
 heap
 height
 heights
+help
 hi
 high
 hint
