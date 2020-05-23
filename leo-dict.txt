@@ -17,6 +17,8 @@ address
 admin
 after
 age
+align
+alignment
 all
 alloc
 allocate
@@ -604,6 +606,7 @@ maps
 mapt
 margin
 marriage
+mask
 match
 matcher
 matches
