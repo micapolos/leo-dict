@@ -757,6 +757,7 @@ play
 plus
 pm
 point
+pointer
 pong
 pop
 port
