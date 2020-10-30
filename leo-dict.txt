@@ -343,7 +343,9 @@ f32
 f64
 factory
 fading
+fail
 failed
+fails
 failures
 false
 family
