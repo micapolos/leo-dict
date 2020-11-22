@@ -346,6 +346,7 @@ fading
 fail
 failed
 fails
+failure
 failures
 false
 family
@@ -960,6 +961,7 @@ subpackages
 substr
 substring
 subtract
+success
 successor
 suffix
 sum
